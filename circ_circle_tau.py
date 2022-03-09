@@ -5,8 +5,12 @@
 # Description: Calculates the circumference of a circle with user input
 
 
-import constants
+# Importing libraries
 import math
+
+# Importing files
+import constants
+
 
 # Calculation function that asks for input and calculates circumference
 def calculate():
