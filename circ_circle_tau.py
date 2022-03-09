@@ -4,9 +4,8 @@
 # Date: 03/08/2022
 # Description: Calculates the circumference of a circle with user input
 
-
-import math
 import constants
+import math
 
 # Calculation function that asks for input and calculates circumference
 def calculate():
